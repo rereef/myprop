@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rajdhani:wght@300;400;500;600; 700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body {
+    
+  background: url(o.jpg) no-repeat center top;
+  height: 100vp;
+  background-size: cover
+  
+}
+
+p {
+  text-indent: 100px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-size: 12px;
+  margin-top: 200px;
+  margin-left: 350px;
+  scroll-snap-type: mandatory;
+  font-weight: bold;
+  
+}
+.box {
+  width: 200px;
+}
+.bloc {
+  background-image: url(pop.jpg);
+  width: 300px;
+  height: 200px;
+  margin-top: -250px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+}  
+.bloc2 {
+  background-image: url(pop2.jpg);
+  width: 300px;
+  height: 200px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.er {
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  margin-top: -190px;
+  margin-left: -100px;
+  font-weight: bold;
+}
+.pepega {
+  color: rgb(0, 0, 0);
+  font-size: 17px;
+  margin-top: 130px;
+  margin-left: -100px;
+  font-weight: normal;
+}
+.d {
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  margin-top: 180px;
+  margin-left: 140px;
+  font-weight: normal;
+}
+
+.butto {
+  display: inline-block;
+  margin-bottom: 220px;
+  margin-left: 95%;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+  
+}
+
+.butto:hover {
+  background-color: #436097;
+}
+
+.arrow-right {
+  display: block;
+  width: 14px;
+  height: 14px;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
+  transform: rotate(45deg);
+  position: absolute;
+  top: 104.50%;
+  left: 95.70%;
+  transform-origin: top left;
+}
+.popka {
+  color: white;
+  font-size: 12px;
+  margin-top: 200px;
+  margin-left: 350px;
+  font-weight: bold;
+}
